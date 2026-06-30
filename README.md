@@ -1,5 +1,7 @@
 # A machine learning framework for advanced analytical detection of CD36 using immunosensors below limit of detection
 
+Article Link: https://doi.org/10.1016/j.biosx.2025.100733
+
 We introduce a machine learning (ML)-based regression framework for quantitative electrochemical analysis, representing a paradigm shift from traditional univariate methods to a multivariate approach. Conventional analysis is constrained by reducing the entire signal to a single peak current feature to define a linear range and calculate a limit of detection (LOD). In contrast, our methodology treats the Differential Pulse Voltammetry (DPV) curve as time-series data, creating a high-dimensional fingerprint by systematically evaluating multiple data windows with varying widths around the main signal peak to identify the most informative segment. 
 
 ![Experimental Framework](assets/schematic.png)
